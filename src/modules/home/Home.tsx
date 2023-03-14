@@ -8,7 +8,7 @@ export const Home: FC = () => {
     <Layout>
       <h1>Home</h1>
       <Counter />
-      {/* <Button>Click</Button> */}
+      <Button>Click</Button>
     </Layout>
   )
 }
